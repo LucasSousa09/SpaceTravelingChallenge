@@ -1,0 +1,56 @@
+.postContainer{
+    width: 100vw;
+
+    img{
+        width: 100vw;
+        height: 30vw;
+    }
+}
+
+.articleContainer{
+    width: 60vw;
+    margin: 0 auto;
+    padding-bottom: 3rem;
+
+    h1{
+        font-size: 3rem;
+        margin: 3rem 0 1rem;
+    }
+
+    .miscellaneousInformation{
+        width: 100%;
+        color: var(--gray-300);
+
+        svg{
+            height: 1.2rem;
+            width: 1.2rem;
+
+            margin-right: .5rem;
+            margin-bottom: -.2rem;
+        }
+
+        time, span{
+            padding-right: 1rem;
+            font-size: .94rem;
+        }
+    }
+
+    div{
+        padding-top: 3rem
+    }
+
+    h2{
+        font-size: 2.4rem;
+        margin-bottom: 3rem;
+    }
+
+    p{
+        color: var(--gray-200);
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+
+    p + p {
+        margin-top: 1.4rem;
+    }
+}
