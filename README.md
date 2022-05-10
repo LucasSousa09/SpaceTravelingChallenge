@@ -8,7 +8,7 @@ Spacetraveling o blog onde você encontra tudo o que você sempre quiz saber.
 
 # Rodando a aplicação
 
-- Execute yarn para instalar as aplicações.
+- Execute yarn para instalar as dependencias.
 - Adicione o Endipoint do Prismic nas váriaveis de ambiente (PRISMIC_API_ENDPOINT=https://blogdeaprendizadoreact.prismic.io/api/v2)
 - Execute yarn dev para rodar a aplicação
 
